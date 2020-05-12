@@ -2,4 +2,8 @@
 
 echo "Hello";
 
+function test() { // Feature A
+
+}
+
 ?>
